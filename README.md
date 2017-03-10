@@ -1,6 +1,17 @@
-# ER-REACT101 - DEMO SETUP GUIDE
+# REACT 101
 
-There are two main parts in this demo setup, those are:
+This project can help you grasp the basic setup for the React.js dev environment.<br />
+This demo project is linked to a presentation about React.js, so take care to see it here: <a href="http://slides.com/vmandic/react-101-v1/">http://slides.com/vmandic/react-101</a>
+
+Please note that the setup is based on Mar 2017 npm packages.
+
+---
+
+# REACT DEV ENV SETUP
+
+Below, a simple boilerplate to bootstrap a React dev env.
+
+There are two main parts in this demo setup, those are:<br />
 1. **setting up the project and build system**
 2. **actually writing react**
 
@@ -32,3 +43,8 @@ There are two main parts in this demo setup, those are:
     - `$ npm start` that will start a NodeJS server with your React app and *hot module replacement* i.e. live editing on
 
 ## 2. Writing the React App
+
+1. make an `index.js` and use `ReactDOM` to render your first root component, e.g. `<App />`
+2. be creative... explore and learn more of React.js! :)
+
+Kind regards, <a href="https://www.twitter.com/@vekzdran">@vekzdran</a>

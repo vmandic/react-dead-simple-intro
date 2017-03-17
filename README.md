@@ -1,7 +1,9 @@
 # REACT 101
 
-This project can help you grasp the basic setup for the React.js dev environment.<br />
-This demo project is linked to a presentation about React.js, so take care to see it here: <a href="http://slides.com/vmandic/react-101-v1/">http://slides.com/vmandic/react-101-v1</a>
+This project can help you and your team to grasp the basic setup for the React.js dev environment.<br />
+This demo project is linked to a presentation about React.js I made, so take care to see it here: <a href="http://slides.com/vmandic/react-101-v1/">http://slides.com/vmandic/react-101-v1</a>
+
+<img src="http://imgur.com/download/Z6toDov" />
 
 Please note that the setup is based on Mar 2017 npm packages.
 
